@@ -1,0 +1,2 @@
+class WrongUserError < StandardError
+end
