@@ -19,8 +19,18 @@ game load.
 actions into bare string representation. The game then take the string and feed
 it into a case statement to determine appropriate actions.
 
+## Screen Shots
+### Welcome Screen
+![welcome_screen]
 
-## Future Development
+### Possible Moves
+Highlights possible moves for selected piece
+![possible_moves]
+
+[welcome_screen]: ./pics/welcome_screen.jpg
+[possible_moves]: ./pics/possible_moves.jpg
+
+## Future Developmentp
 
 - Implement basic AI that can play against human
     - AI will have access to the board at every move allowing it to know the
